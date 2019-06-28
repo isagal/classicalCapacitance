@@ -1,0 +1,7 @@
+Sample box size along x (in angs) : 10.0
+Sample box size along y (in angs) : 50.0
+Sample box size along z (in angs) : 3.45
+Box enlargement in all directions (in angs): 4
+Charge of the sample  : 6
+Number of atoms       : 176	
+Cutoff (in VdW units) : 1.5
